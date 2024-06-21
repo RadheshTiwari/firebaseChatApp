@@ -1,0 +1,16 @@
+export const ImageSet = {
+  home: require('./Img/home.png'),
+  messenger: require('./Img/messenger.png'),
+  // heart: require('./Img/heart.png'),
+  // brain: require('./Img/brain.png'),
+  // ear: require('./Img/ear.png'),
+  // dental: require('./Img/dental.png'),
+  // hair: require('./Img/hair.png'),
+  // teeth: require('./Img/teeth.png'),
+  // skin: require('./Img/skin.png'),
+  // psyco: require('./Img/psyco.png'),
+  // bone: require('./Img/bone.png'),
+  // eye: require('./Img/eye.png'),
+  covid: require('./Img/covid.png'),
+  doctor: require('./Img/doctor.png'),
+};

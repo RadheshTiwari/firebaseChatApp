@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148023924988",
+    "project_id": "digittrix-32909",
+    "storage_bucket": "digittrix-32909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148023924988:android:5a872b2ba2220acae99f79",
+        "android_client_info": {
+          "package_name": "com.digittrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCamDZoD_sH1heXg5LBZ2MqR8NP7yvsvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
